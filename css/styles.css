@@ -68,6 +68,8 @@ h3 {
   font-family: var(--dawntreader-ff);
   line-height: 1.3;
   font-size: 1.8em;
+  text-align: center;
+  padding: 1rem 0;
 }
 
 p {
@@ -86,19 +88,22 @@ p {
    =========================================================================  
    */
 
-header > h2 {
-  text-align: center;
-  padding: 1rem 0;
-}
-
 .fc-members-display {
   display: flex;
+  flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
 }
 
+.fc-member-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 720px;
+}
+
 .fc-member-selector {
-  /* border: 2px solid black; */
+  padding-top: 1rem;
 }
 
 .member-image {
@@ -106,12 +111,13 @@ header > h2 {
 }
 
 @media screen and (max-width: 1080px) {
-  .fc-members-display {
-    flex-direction: column-reverse;
-  }
-
   .member-image {
     max-width: 100%;
-    padding: 10px 0;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .fc-members-display {
+    flex-direction: row-reverse;
   }
 }
