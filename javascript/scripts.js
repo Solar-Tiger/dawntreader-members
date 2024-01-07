@@ -6,7 +6,7 @@ const fcMemberPortrait = document.getElementById('fc-member-portrait');
 const fcMemberAnecdote = document.getElementById('fc-member-anecdote');
 const fcMemberRace = document.getElementById('fc-member-race');
 const fcMemberPronouns = document.getElementById('fc-member-pronouns');
-const fcMemberTitle = document.getElementById('fc-member-tiel');
+const fcMemberTitle = document.getElementById('fc-member-title');
 const fcMemberFavJobs = document.getElementById('fc-member-favorite-jobs');
 const fcMemberLeastFavJobs = document.getElementById(
   'fc-member-least-favorite-jobs'
