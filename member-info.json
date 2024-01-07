@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Eris Eve, dino extrodinaire",
     "image": "fc-screenshots/member-pictures/eris-eve/eris-eve-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/01-member.jpeg",
@@ -15,6 +16,7 @@
     }
   },
   {
+    "id": 2,
     "name": "Chris Dream, dreams big dreams",
     "image": "fc-screenshots/member-pictures/chris-dream/chris-dream-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/02-member.png",
@@ -28,6 +30,7 @@
     "leastFavoriteJobs": null
   },
   {
+    "id": 3,
     "name": "Kalan'klyr Thabi, explosive energy",
     "image": "fc-screenshots/member-pictures/kalanklyr-thabi/kalanklyr-thabi-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/03-member.png",
@@ -44,6 +47,7 @@
     }
   },
   {
+    "id": 4,
     "name": "Michi Ri, our glorious leader",
     "image": "fc-screenshots/member-pictures/michi-ri/michi-ri-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/04-member.png",
@@ -65,6 +69,7 @@
     }
   },
   {
+    "id": 5,
     "name": "Raenei Hawkesbury, best bunboy",
     "image": "fc-screenshots/member-pictures/raenei-hawkesbury/raenei-hawkesbury-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/05-member.png",
@@ -91,6 +96,7 @@
     }
   },
   {
+    "id": 6,
     "name": "Valine Gulrath, happily blinking",
     "image": "fc-screenshots/member-pictures/valine-gulrath/valine-gulrath-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/06-member.png",
@@ -107,6 +113,7 @@
     }
   },
   {
+    "id": 7,
     "name": "Kyeler Oliver, [REDACTED] expert",
     "image": "fc-screenshots/member-pictures/kyeler-kaylus-oliver/kyeler-oliver-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/07-member.png",
@@ -123,6 +130,7 @@
     }
   },
   {
+    "id": 8,
     "name": "Moder Kanin, glamorous bunboy",
     "image": "fc-screenshots/member-pictures/morder-kanin/morder-kanin-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/08-member.png",
@@ -143,6 +151,7 @@
     }
   },
   {
+    "id": 9,
     "name": "Roxas Windstriker, cute catboy",
     "image": "fc-screenshots/member-pictures/roxas-windstriker/roxas-windstrikre-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/09-member.png",
@@ -161,6 +170,7 @@
     }
   },
   {
+    "id": 10,
     "name": "Random Dadalian, randomness is my game",
     "image": "fc-screenshots/member-pictures/michi-ri/michi-ri-truest-self.png",
     "portrait": "fc-screenshots/member-portraits/10-member.png",
