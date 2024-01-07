@@ -17,7 +17,7 @@ fetch('../member-info.json')
   .then((fcMembers) => {
     console.log(fcMembers);
 
-    memberDropdown.addEventListener('change', () => {
+    memberDropdown.addEventListener('input', () => {
       const memberIndex = memberDropdown.selectedIndex;
 
       fcMemberName.textContent = fcMembers[memberIndex].name;
