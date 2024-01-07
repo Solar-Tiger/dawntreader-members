@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Eris Eve, dino extrodinaire",
+    "image": "fc-screenshots/member-pictures/eris-eve/eris-eve-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/01-member.jpeg",
+    "anecdote": "Eris loves Godzilla and her pet cat more than anything! She is also a lover of dinosaurs, bugs and all things related! She is a wealth of knowledge and enjoys sharing it. She also enjoys a good dad joke now and again. Sweet, kind, caring... You'd be hard pressed to find someone else like her. Random approves of her in the highest possible regard and can't think of a multiverse without her!",
+    "race": "Hyur, Midlander",
+    "genderAndPronouns": "She/Her",
+    "title": null,
+    "favoriteJobs": {
+      "rdm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/RedMage.png"
+    },
+    "leastFavoriteJobs": {
+      "fsh": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/05_GATHERER/Fisher.png"
+    }
+  },
+  {
+    "name": "Chris Dream, dreams big dreams",
+    "image": "fc-screenshots/member-pictures/chris-dream/chris-dream-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/02-member.png",
+    "anecdote": "Chris Dream was the first friend I had in Dawntreaders, so he's held in high regard for Random. He's kind, doesn't forget things people tell him, will make you laugh in that same, Chris like voice... I can't explain it. Just listen, you'll understand. He's calm, patient and very reassuring. Definitely an A+ friend you'd want in your life. Random give him the stamp of above and beyond approval.",
+    "race": "Roegadn, Hellsguard",
+    "genderAndPronouns": "He/Him",
+    "title": "The Heart of the Party",
+    "favoriteJobs": {
+      "rdm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Warrior.png"
+    },
+    "leastFavoriteJobs": null
+  },
+  {
+    "name": "Kalan'klyr Thabi, explosive energy",
+    "image": "fc-screenshots/member-pictures/kalanklyr-thabi/kalanklyr-thabi-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/03-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Miqo'te, Seeker of the Sun",
+    "genderAndPronouns": "They/Them or He/Him",
+    "title": "House Fortemps Knight",
+    "favoriteJobs": {
+      "pld": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Paladin.png",
+      "drk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/DarkKnight.png"
+    },
+    "leastFavoriteJobs": {
+      "rdm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/RedMage.png"
+    }
+  },
+  {
+    "name": "Michi Ri, our glorious leader",
+    "image": "fc-screenshots/member-pictures/michi-ri/michi-ri-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/04-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Miqo'te, Seeker of the Sun",
+    "genderAndPronouns": "She/Her",
+    "title": "Goddess of the Land",
+    "favoriteJobs": {
+      "whm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/WhiteMage.png",
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png",
+      "war": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Warrior.png",
+      "fsh": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/05_GATHERER/Fisher.png",
+      "btn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/05_GATHERER/Botanist.png",
+      "cul": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/04_CRAFTER/Culinarian.png"
+    },
+    "leastFavoriteJobs": {
+      "mnk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Monk.png",
+      "drk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/DarkKnight.png"
+    }
+  },
+  {
+    "name": "Raenei Hawkesbury, best bunboy",
+    "image": "fc-screenshots/member-pictures/raenei-hawkesbury/raenei-hawkesbury-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/05-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Viera, Rava",
+    "genderAndPronouns": "She/Her",
+    "title": "Trusted Friend",
+    "favoriteJobs": {
+      "war": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Warrior.png",
+      "ast": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Astrologian.png",
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png",
+      "mch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Machinist.png",
+      "nin": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Ninja.png",
+      "cul": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/04_CRAFTER/Culinarian.png",
+      "alc": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/04_CRAFTER/Alchemist.png",
+      "fsh": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/05_GATHERER/Fisher.png"
+    },
+    "leastFavoriteJobs": {
+      "gnb": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Gunbreaker.png",
+      "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png",
+      "blm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/BlackMage.png",
+      "dnc": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dancer.png",
+      "mnk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Monk.png"
+    }
+  },
+  {
+    "name": "Valine Gulrath, happily blinking",
+    "image": "fc-screenshots/member-pictures/valine-gulrath/valine-gulrath-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/06-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Roegadn, Sea Wolf",
+    "genderAndPronouns": "She/Her",
+    "title": "Pom Friend",
+    "favoriteJobs": {
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png",
+      "mch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Machinist.png"
+    },
+    "leastFavoriteJobs": {
+      "tank": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/00_ROLE/TankRole.png"
+    }
+  },
+  {
+    "name": "Kyeler Oliver, [REDACTED] expert",
+    "image": "fc-screenshots/member-pictures/kyeler-kaylus-oliver/kyeler-oliver-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/07-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Miqo'te, Seeker of the Sun",
+    "genderAndPronouns": "He/Him",
+    "title": "Dawn Treader",
+    "favoriteJobs": {
+      "blm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/BlackMage.png",
+      "whm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/WhiteMage.png"
+    },
+    "leastFavoriteJobs": {
+      "drg": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dragoon.png"
+    }
+  },
+  {
+    "name": "Moder Kanin, glamorous bunboy",
+    "image": "fc-screenshots/member-pictures/morder-kanin/morder-kanin-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/08-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Viera, Veena",
+    "genderAndPronouns": "They/Them",
+    "title": "The Heart of the Party",
+    "favoriteJobs": {
+      "blm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/BlackMage.png",
+      "nin": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Ninja.png",
+      "brd": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Bard.png",
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png"
+    },
+    "leastFavoriteJobs": {
+      "rdm": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/RedMage.png",
+      "sam": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Samurai.png",
+      "dnc": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dancer.png"
+    }
+  },
+  {
+    "name": "Roxas Windstriker, cute catboy",
+    "image": "fc-screenshots/member-pictures/roxas-windstriker/roxas-windstrikre-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/09-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Miqo'te, Seeker of the Sun",
+    "genderAndPronouns": "He/Him",
+    "title": "The Heart of the Party",
+    "favoriteJobs": {
+      "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png",
+      "dnc": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dancer.png",
+      "war": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Warrior.png"
+    },
+    "leastFavoriteJobs": {
+      "sge": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Sage.png",
+      "gnb": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/Gunbreaker.png"
+    }
+  },
+  {
+    "name": "Random Dadalian, randomness is my game",
+    "image": "fc-screenshots/member-pictures/michi-ri/michi-ri-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/10-member.png",
+    "anecdote": "Kal is never too far without Val (or Valine) in tow. They're a pair and a very welcome one at that! Every time I see him he's got this 'explosive energy' about him that really livens up the FC chat. He's always wandering around with a smile on his face no matter what has him down and instils positivity in those he cares about most, even if he's in a rough patch himself. Truly deserving of that knightly title!",
+    "race": "Miqo'te, Seeker of the Sun",
+    "genderAndPronouns": "He/Him",
+    "title": "True Blue",
+    "favoriteJobs": {
+      "sge": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Sage.png",
+      "mch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Machinist.png",
+      "drk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/DarkKnight.png",
+      "sam": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Samurai.png",
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png"
+    },
+    "leastFavoriteJobs": {
+      "drg": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dragoon.png",
+      "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png",
+      "ast": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Astrologian.png"
+    }
+  }
+]
