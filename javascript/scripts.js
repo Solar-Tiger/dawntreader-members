@@ -1,11 +1,17 @@
+const memberDropdown = document.querySelector('select');
+
+const fcMemberImage = document.getElementById('fc-member-image');
+
 fetch('../member-info.json')
   .then((response) => response.json())
   .then((fcMembers) => {
     console.log(fcMembers);
 
-    const fcMemberImage = document.getElementById('fc-member-image');
+    memberDropdown.addEventListener('change', () => {
+      const memberIndex = memberDropdown.selectedIndex;
 
-    console.log(fcMemberImage);
+      console.log(memberIndex);
 
-    // fcMemberImage.src = fcMembers[0].image;
+      fcMemberImage.src = fcMembers[memberIndex].image;
+    });
   });
