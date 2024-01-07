@@ -12,12 +12,10 @@ const fcMemberLeastFavJobs = document.getElementById(
   'fc-member-least-favorite-jobs'
 );
 
-fetch('../member-info.json')
+fetch('https://solar-tiger.github.io/dawntreader-members/member-info.json')
   .then((response) => response.json())
   .then((fcMembers) => {
-    console.log(fcMembers);
-
-    memberDropdown.addEventListener('input', () => {
+    memberDropdown.addEventListener('change', () => {
       const memberIndex = memberDropdown.selectedIndex;
 
       fcMemberName.textContent = fcMembers[memberIndex].name;
