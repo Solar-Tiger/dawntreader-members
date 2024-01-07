@@ -20,6 +20,12 @@ fetch('../member-info.json')
     memberDropdown.addEventListener('change', () => {
       const memberIndex = memberDropdown.selectedIndex;
 
+      fcMemberName.textContent = fcMembers[memberIndex].name;
       fcMemberImage.src = fcMembers[memberIndex].image;
+      fcMemberPortrait.src = fcMembers[memberIndex].portrait;
+      fcMemberAnecdote.textContent = fcMembers[memberIndex].anecdote;
+      fcMemberRace.textContent = fcMembers[memberIndex].race;
+      fcMemberPronouns.textContent = fcMembers[memberIndex].genderAndPronouns;
+      fcMemberTitle.textContent = fcMembers[memberIndex].title;
     });
   });
