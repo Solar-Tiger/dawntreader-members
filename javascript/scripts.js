@@ -25,5 +25,48 @@ fetch('https://solar-tiger.github.io/dawntreader-members/member-info.json')
       fcMemberRace.textContent = fcMembers[memberIndex].race;
       fcMemberPronouns.textContent = fcMembers[memberIndex].genderAndPronouns;
       fcMemberTitle.textContent = fcMembers[memberIndex].title;
+      getFavoriteJob(fcMembers[memberIndex]);
+      getLeastFavoriteJob(fcMembers[memberIndex]);
     });
   });
+
+function getFavoriteJob(favJobs) {
+  for (const favJob in favJobs) {
+    if (favJob === 'favoriteJobs') {
+      const jobs = favJobs[favJob];
+
+      for (const job in jobs) {
+        addFavJobIcons(jobs[job]);
+      }
+    }
+  }
+}
+
+function getLeastFavoriteJob(leastFavJobs) {
+  for (const leastFavJob in leastFavJobs) {
+    if (leastFavJobs === 'leastFavoriteJobs') {
+      const jobs = leastFavJobs[leastFavJob];
+
+      for (const job in jobs) {
+        addLeastFavJobIcons(jobs[job]);
+      }
+    }
+  }
+}
+
+// Create and append imgs to favorite or least favorite jobs for the number of references in the json file
+function addFavJobIcons(jobIcon) {
+  const img = document.createElement('img');
+
+  img.src = jobIcon;
+
+  fcMemberFavJobs.appendChild(img);
+}
+
+function addLeastFavJobIcons(jobIcon) {
+  const img = document.createElement('img');
+
+  img.src = jobIcon;
+
+  fcMemberLeastFavJobs.appendChild(img);
+}
