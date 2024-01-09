@@ -127,7 +127,7 @@ p {
   order: 4;
 
   & > :nth-child(1) {
-    margin-bottom: 3.5rem;
+    margin-bottom: 2.5rem;
   }
 }
 
@@ -160,8 +160,17 @@ p {
   border: 2px solid black;
 }
 
-.job-icons img {
-  max-width: 48px;
+.job-icons {
+  display: flex;
+
+  & img {
+    max-width: 48px;
+  }
+}
+
+#fc-member-favorite-jobs {
+  min-width: 288px;
+  flex-wrap: wrap;
 }
 
 /* Keeps height of boxes same on mobile but removes it on desktop to keep the desktop design */
