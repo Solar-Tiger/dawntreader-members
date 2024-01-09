@@ -71,6 +71,16 @@ h3 {
   padding: 0.5rem 0;
 }
 
+h3 {
+  margin: 0.5em auto;
+  font-family: Times New Roman, serif;
+  font-size: 1.5em;
+  line-height: 1;
+  font-variant: small-caps;
+  color: #d4b87b;
+  text-shadow: 0 2px 2px black;
+}
+
 p {
   line-height: 1.5;
 }
@@ -102,6 +112,17 @@ p {
   max-width: 100%;
 }
 
+/* .member-image::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: center/100% no-repeat
+    url(/fc-screenshots/member-picture-borders/war-portrait.png);
+} */
+
 .fc-member-info {
   display: flex;
   gap: 1rem;
@@ -111,10 +132,23 @@ p {
   max-width: 720px;
   padding: 1rem;
 
-  & .square {
-    border: 2px solid black;
+  /* Apply a pseudo FFXIV background and border */
+  & .square,
+  select {
     width: 100%;
     max-width: 720px;
+    border-top: 2px solid #c3c19b;
+    border-right: 2px solid #9b8358;
+    border-bottom: 2px solid #8a7349;
+    border-left: 2px solid #9b8358;
+    border-radius: 0.5em;
+    box-shadow: 0 0.2em 0.2em black;
+    background-color: #313031;
+    color: #fcfcfc;
+  }
+
+  select {
+    padding: 0.2rem 0.5rem;
   }
 
   & p {
@@ -148,6 +182,10 @@ p {
   align-items: center;
 }
 
+.square2 {
+  padding: 0.3rem;
+}
+
 .square3,
 .square4 {
   display: flex;
@@ -156,8 +194,14 @@ p {
   align-items: center;
 }
 
-.square4 p {
-  border: 2px solid black;
+.square4 {
+  & p {
+    border: 2px solid black;
+  }
+
+  & h3 {
+    margin: 0;
+  }
 }
 
 .job-icons {
@@ -204,7 +248,7 @@ p {
     align-items: normal;
     padding: 0;
     gap: 0.5rem;
-    max-width: var(--member-info-dimensions);
+    max-width: min(60vw, 860px);
     height: var(--member-info-dimensions);
   }
 
