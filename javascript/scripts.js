@@ -31,6 +31,8 @@ fetch('https://solar-tiger.github.io/dawntreader-members/member-info.json')
   });
 
 function getFavoriteJob(favJobs) {
+  removeJobIcons(fcMemberFavJobs);
+
   for (const favJob in favJobs) {
     if (favJob === 'favoriteJobs') {
       const jobs = favJobs[favJob];
@@ -43,8 +45,10 @@ function getFavoriteJob(favJobs) {
 }
 
 function getLeastFavoriteJob(leastFavJobs) {
+  removeJobIcons(fcMemberLeastFavJobs);
+
   for (const leastFavJob in leastFavJobs) {
-    if (leastFavJobs === 'leastFavoriteJobs') {
+    if (leastFavJob === 'leastFavoriteJobs') {
       const jobs = leastFavJobs[leastFavJob];
 
       for (const job in jobs) {
@@ -55,18 +59,24 @@ function getLeastFavoriteJob(leastFavJobs) {
 }
 
 // Create and append imgs to favorite or least favorite jobs for the number of references in the json file
-function addFavJobIcons(jobIcon) {
+function addFavJobIcons(favJobIcon) {
   const img = document.createElement('img');
 
-  img.src = jobIcon;
+  img.src = favJobIcon;
 
   fcMemberFavJobs.appendChild(img);
 }
 
-function addLeastFavJobIcons(jobIcon) {
+function addLeastFavJobIcons(leastFavJobIcon) {
   const img = document.createElement('img');
 
-  img.src = jobIcon;
+  img.src = leastFavJobIcon;
 
   fcMemberLeastFavJobs.appendChild(img);
+}
+
+function removeJobIcons(currentJobIcons) {
+  while (currentJobIcons.firstChild) {
+    currentJobIcons.removeChild(currentJobIcons.lastChild);
+  }
 }
