@@ -192,10 +192,6 @@ p {
 
 .square3 {
   order: 4;
-
-  & > :nth-child(1) {
-    margin-bottom: 1.5rem;
-  }
 }
 
 .square4 div:not(:last-child) {
