@@ -180,5 +180,41 @@
       "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png",
       "ast": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Astrologian.png"
     }
+  },
+  {
+    "name": "Redmac Ironbear, master of red",
+    "image": "fc-screenshots/member-pictures/redmac-ironbear/redmac-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/11-member.png",
+    "anecdote": "I haven't gotten to know Redmac as well as others (YET!) but I'm always trying to extend a friendly hand to anyone who returns one in kind! I have seen Redmac sitting in the back in some FC meetings and do occasionally see him chatting in the FC chat but have yet to run content or get to join in turn so there's many more layers to him than the color red, which as a blue I can respect the color focus!",
+    "race": "Hyur, Highlander",
+    "genderAndPronouns": "He/Him",
+    "title": "The Red",
+    "favoriteJobs": {
+      "sge": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Sage.png",
+      "mch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Machinist.png",
+      "drk": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/01_TANK/Job/DarkKnight.png",
+      "sam": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Samurai.png",
+      "smn": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Summoner.png"
+    },
+    "leastFavoriteJobs": {
+      "drg": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/03_DPS/Job/Dragoon.png",
+      "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png",
+      "ast": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Astrologian.png"
+    }
+  },
+  {
+    "name": "Wynterus Normadou, wisecracking gentle soul",
+    "image": "fc-screenshots/member-pictures/wynterus-normadou/wynterus-truest-self.png",
+    "portrait": "fc-screenshots/member-portraits/12-member.png",
+    "anecdote": "Wynterus is a curious one... One minute he's reciting off things of old and the next he's forgotten what we were doing! Other times he's got that charisma one could only dream of with artistic skills of both the musical and artistic we yearn for. With so much raw talent you can't contain the man, and good luck trying! I've gotten to know him mostly through Savage Raids and I'd say he's an A+",
+    "race": "Viera, Veena",
+    "genderAndPronouns": "He/Him",
+    "title": "Echo of a Fallen Star",
+    "favoriteJobs": {
+      "ast": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Astrologian.png"
+    },
+    "leastFavoriteJobs": {
+      "sch": "fc-screenshots/fc-icons/FFXIVIcons JobIcons/02_HEALER/Job/Scholar.png"
+    }
   }
 ]
